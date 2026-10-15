@@ -13,7 +13,7 @@
     },
     "fe28715793d2cf48c1c6334d3156dd3633296c14850ab726849552426133560e": {
       "created": "2026-10-15T06:25:46.490Z",
-      "revoked": false,
+      "revoked": true,
       "member": "Robin",
       "device": "0e888c9f-34e6-418c-849e-b0d35c08b95a"
     }
