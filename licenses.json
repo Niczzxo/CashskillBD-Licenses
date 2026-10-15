@@ -3,7 +3,7 @@
   "keys": {
     "787ee58297dc1fde567ebec88bc106ba801e7e3a6ce2964c9e3a45c675a581ce": {
       "created": "2026-10-15T09:00:00+06:00",
-      "revoked": true,
+      "revoked": false,
       "note": "admin-personal"
     },
     "1b8f5b06d159e17de77dd9f3ecf45cdc47b9ce9b8454ec36bb156b386d45a296": {
