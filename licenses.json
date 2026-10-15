@@ -13,7 +13,7 @@
     },
     "d83ceb42347170eacc5cc217ba18f246c7d90ac827f72296e0bff3ea4b23f0b0": {
       "created": "2026-10-15T06:23:21.837Z",
-      "revoked": false,
+      "revoked": true,
       "member": "Toriqul"
     }
   }
