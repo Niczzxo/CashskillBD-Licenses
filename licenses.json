@@ -10,12 +10,6 @@
       "created": "2026-10-15T06:23:21.837Z",
       "revoked": true,
       "member": "Toriqul"
-    },
-    "da41ddc2e686783f975ae565c9a207878da946996764313faa1aa35c8295f489": {
-      "created": "2026-10-15T06:36:23.895Z",
-      "revoked": true,
-      "member": "Robin",
-      "device": "c8412894-504f-4f31-a03c-4e02fa19e151"
     }
   }
 }
