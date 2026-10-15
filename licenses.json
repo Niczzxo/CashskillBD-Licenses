@@ -1,4 +1,10 @@
 {
   "version": 1,
-  "keys": {}
+  "keys": {
+    "787ee58297dc1fde567ebec88bc106ba801e7e3a6ce2964c9e3a45c675a581ce": {
+      "created": "2026-10-15T09:00:00+06:00",
+      "revoked": false,
+      "note": "admin-personal"
+    }
+  }
 }
