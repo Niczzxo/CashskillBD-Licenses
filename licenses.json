@@ -13,7 +13,7 @@
     },
     "7db2eed629cbe8e63dbc1b7de6704f10dab1c4270c452867fd5085ccbba94bf8": {
       "created": "2026-10-18T14:39:35.482Z",
-      "revoked": false,
+      "revoked": true,
       "member": "free"
     },
     "ec9c59e260aede56cbfa36fcdf2d9caea9a37b8cc158a780aea1992b96cec0fd": {
