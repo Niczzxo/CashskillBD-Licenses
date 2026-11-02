@@ -11,11 +11,6 @@
       "revoked": true,
       "member": "Arafat Rahman"
     },
-    "7db2eed629cbe8e63dbc1b7de6704f10dab1c4270c452867fd5085ccbba94bf8": {
-      "created": "2026-10-18T14:39:35.482Z",
-      "revoked": true,
-      "member": "free"
-    },
     "ec9c59e260aede56cbfa36fcdf2d9caea9a37b8cc158a780aea1992b96cec0fd": {
       "created": "2026-10-21T12:58:59.890Z",
       "revoked": false,
@@ -35,6 +30,11 @@
       "created": "2026-10-29T16:05:00.401Z",
       "revoked": false,
       "member": "Jannat"
+    },
+    "2b3255c667fbf2667cee0c0439a85045b610ee296d3b45b81b47a5bdccb73f53": {
+      "created": "2026-11-02T16:20:59.456Z",
+      "revoked": false,
+      "member": "free"
     }
   }
 }
