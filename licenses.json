@@ -38,7 +38,7 @@
     },
     "63a372dbab343b6bcfc6ce2de483576b9009f1f4c0955bc1083a86268d3f7e1a": {
       "created": "2026-11-09T16:50:46.053Z",
-      "revoked": false,
+      "revoked": true,
       "member": "Shifuahs"
     }
   }
